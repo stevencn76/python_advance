@@ -15,4 +15,4 @@ thread2.start()
 thread1.join()
 thread2.join()
 
-print("Main thread is end")
+print("Main threads is end")
